@@ -2,7 +2,7 @@ from flask import Flask,render_template,url_for,request
 import pandas as pd 
 import pickle
 #from sklearn.externals import joblib
-import sklearn.external.joblib as extjoblib
+#import sklearn.external.joblib as extjoblib
 import joblib
 import pickle
 
